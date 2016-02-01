@@ -1,1 +1,1 @@
-test
+Testing repository for GIT command
